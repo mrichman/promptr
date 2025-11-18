@@ -1,4 +1,4 @@
-Welcome to the Teleprompter App
+Welcome to promptr
 
 This is a sample script to demonstrate the teleprompter functionality.
 
