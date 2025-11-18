@@ -1,4 +1,4 @@
-# Teleprompter - macOS Native Desktop App
+# promptr - macOS Native Desktop App
 
 A native macOS teleprompter application built with Rust, featuring window transparency, fullscreen mode, and speed controls.
 
