@@ -1,0 +1,25 @@
+Welcome to the Teleprompter App
+
+This is a sample script to demonstrate the teleprompter functionality.
+
+The text will scroll automatically at a configurable speed.
+
+You can control the teleprompter using keyboard shortcuts:
+
+SPACE - Pause/Resume scrolling
+UP ARROW - Increase speed
+DOWN ARROW - Decrease speed
+F - Toggle fullscreen mode
+T - Toggle transparency
+R - Reset to beginning
+ESC - Exit application
+
+The teleprompter supports window transparency, making it perfect for recording videos or presentations.
+
+You can edit the sample_text.txt file to add your own script.
+
+The text is displayed in a large, easy-to-read font that's perfect for reading from a distance.
+
+This application is built with Rust and uses native macOS rendering for optimal performance.
+
+Enjoy using your new teleprompter!

@@ -1,0 +1,18 @@
+[package]
+name = "promptr"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+winit = "0.29"
+wgpu = "0.19"
+pollster = "0.3"
+bytemuck = { version = "1.14", features = ["derive"] }
+glyphon = "0.5"
+egui = "0.27"
+egui-wgpu = "0.27"
+egui-winit = "0.27"
+
+[profile.release]
+opt-level = 3
+lto = true
